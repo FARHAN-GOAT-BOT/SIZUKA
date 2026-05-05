@@ -4,10 +4,10 @@ const path = require("path");
 
 module.exports = {
         config: {
-                name: "pfp",
-                aliases: ["pp", "profilepic", "profile"],
+                name: "pp",
+                aliases: ["pfp", "profilepic", "profile"],
                 version: "1.0",
-                author: "NeoKEX",
+                author: "FARHAN-KHAN",
                 countDown: 5,
                 role: 0,
                 description: {
@@ -37,10 +37,10 @@ module.exports = {
                         invalidUID: "! UID không hợp lệ"
                 },
                 en: {
-                        fetching: "🔍 Fetching profile picture...",
-                        success: "✓ Profile picture of %1",
-                        error: "× Could not fetch profile picture: %1",
-                        invalidUID: "! Invalid UID"
+                        fetching: "🔍 𝐅𝐞𝐭𝐜𝐡𝐢𝐧𝐠 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞...",
+                        success: "✿•≫────•『𝐏'𝐏』•────≪•✿\n➪𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞.✨\n\n『 %1 』\n✿•≫──────────────≪•✿",
+                        error: "× 𝐂𝐨𝐮𝐥𝐝 𝐧𝐨𝐭 𝐟𝐞𝐭𝐜𝐡 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞: %1",
+                        invalidUID: "! 𝐈𝐧𝐯𝐚𝐥𝐢𝐝 𝐔𝐈𝐃"
                 }
         },
 
