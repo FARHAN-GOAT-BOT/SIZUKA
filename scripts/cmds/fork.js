@@ -12,7 +12,7 @@ module.exports = {
   },
 
   onStart: async function({ message }) {
-    const text = "https://github.com/ShifuX69/Prime-GoatBot.git";
+    const text = "https://github.com/FARHAN-MIRAI-BOT/GOAT";
     
     message.reply(text);
   }
