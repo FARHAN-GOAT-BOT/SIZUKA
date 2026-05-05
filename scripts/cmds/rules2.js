@@ -2,7 +2,7 @@ const { getPrefix } = global.utils;
 
 module.exports = {
 	config: {
-		name: "rules",
+		name: "rules2",
 		version: "1.6",
 		author: "NTKhang",
 		countDown: 5,
