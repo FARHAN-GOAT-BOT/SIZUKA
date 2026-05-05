@@ -1,17 +1,115 @@
-<img src="https://i.imgur.com/gU1MsAW.gif" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">   𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
-<!-- Github README -->
+<!-- 🔥 NEON BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/hL3z57w.gif" width="100%">
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/I Am Eren from %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<!-- 🔥 TITLE -->
+<h1 align="center">
+  <img src="./dashboard/images/logo-non-bg.png" width="28px">
+  𓆩𝐌𝐑-𝐅𝐀𝐑𝐇𝐀𝐍𓆪 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧
+</h1>
 
-</i></b></h3>
+<!-- 🔥 BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/𝐈%20𝐀𝐌%20𝐅𝐀𝐑𝐇𝐀𝐍-𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇𝐈%20𝐍𝐎𝐎𝐁%20𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑-ff0000?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<!-- 🔥 WELCOME -->
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ Profile &nbsp;
+  ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴄʜᴀᴛ ʙᴏᴛ
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
+<img src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/main/assets/images/line-1.svg">
 
+<!-- 🔥 TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=𝐈+𝐀𝐌+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐁𝐎𝐘;𝐈𝐓'𝐒+𝐍𝐎𝐓+𝐉𝐔𝐒𝐓+𝐀+𝐍𝐀𝐌𝐄+𝐁𝐑𝐎;𝐅𝐀𝐑𝐇𝐀𝐍+𝐈𝐒+𝐓𝐇𝐄+𝐁𝐑𝐀𝐍𝐃;𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄;𝐋𝐎𝐕𝐄+𝐘𝐎𝐔+𝐀𝐋𝐋+𝐅𝐑𝐈𝐄𝐍𝐃𝐒">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+---
+
+## ⚡ 𝐆𝐎𝐀𝐓-𝐁𝐎𝐓-𝐕𝟐 ⚡
+
+  <div align="center" style="max-width:820px; margin:auto; padding:20px; background:#111; border-radius:20px; box-shadow:0 0 15px #0099ff;">
+    <h2 style="color:#00c4ff;">📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹</h2>
+    <p style="color:#d0d0d0;">𝐂𝐥𝐢𝐜𝐤 ➜ 𝐭𝐡𝐞 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐰𝐚𝐭𝐜𝐡 𝐭𝐡𝐞 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐬𝐞𝐭𝐮𝐩 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐨𝐧 𝐘𝐨𝐮𝐓𝐮𝐛𝐞:↓</p>
+    <a href="https://youtu.be/vKzIu2iyg8I?feature=shared" target="_blank">
+      <img src="https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg" 
+           alt="Goat Bot V2 Setup Tutorial"‌‌‌>
+</p>
+
+---
+
+## 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FARHAN-MIRAI-BOT&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00ffff&icon_color=ff00ff&text_color=ffffff">
+</p>
+
+---
+
+## 🔥 𝐒𝐓𝐑𝐄𝐀𝐊 𝐒𝐓𝐀𝐓𝐒
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FARHAN-MIRAI-BOT&theme=dark&background=000000&ring=ff0000&fire=ff9900&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff">
+</p>
+
+---
+
+## 📈 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘 𝐆𝐑𝐀𝐏𝐇
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FARHAN-MIRAI-BOT&bg_color=000000&color=00ff00&line=00ffff&point=ff0000&area=true&hide_border=true">
+</p>
+
+---
+
+## 👤 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+
+### 𝐀 𝐏𝐀𝐒𝐒𝐈𝐎𝐍𝐀𝐓𝐄 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄 𝐅𝐑𝐎𝐌 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇
+______________________________________
+- ➪ 𝐍𝐀𝐌𝐄 : 𓆩𝐃𝐄𝐕𝐈𝐋-𝐅𝐀𝐑𝐇𝐀𝐍𓆪  
+- ➪ 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍 : 𝐈𝐒𝐋𝐀𝐌  
+- ➪ 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 : 𝐂𝐇𝐔𝐀𝐃𝐀𝐍𝐆𝐀  
+- ➪ 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍 : 𝐒𝐓𝐔𝐃𝐄𝐍𝐓  
+- ➪ 𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏 : 𝐒𝐈𝐍𝐆𝐋𝐄  
+
+---
+
+## 📞 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄
+
+### 🔵 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊
+<a href="https://www.facebook.com/MR.MUNNA.220">
+<img src="https://img.shields.io/badge/Facebook-ff0000?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+---
+
+### 🟢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
+<a href="https://wa.me/8801934640061">
+<img src="https://img.shields.io/badge/WhatsApp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=black">
+</a>
+
+---
+
+## 🌐 𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐄
+
+<a href="https://github.com/FARHAN-MIRAI-BOT">
+<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
+</a>
+
+<a href="https://www.facebook.com/MR.MUNNA.220">
+<img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
+</a>
+
+<a href="https://www.instagram.com/MUNNA_VAI.MBS">
+<img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
+</a>
+
+---
+
+<h2 align="center">𝐅𝐀𝐑𝐇𝐀𝐍 𝐈𝐒 𝐍𝐎𝐓 𝐀 𓆩𝐍𝐀𝐌𝐄𓆪 
+  
+   😈 𝐈𝐓'𝐒 𝐀 𝐁𝐑𝐀𝐍𝐃 😈</h2>
